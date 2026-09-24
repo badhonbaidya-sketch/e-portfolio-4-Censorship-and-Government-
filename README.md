@@ -7,7 +7,7 @@ A collection of artefacts that demonstrate what I have learnt about Censorship a
 
 **Link:** https://www.infrastructure.gov.au/department/media/publications/age-assurance-technology-trial-final-report
 
-![Age Assurance Technology Trial final report](images/artefact1.png)
+![Age Assurance Technology Trial final report](/artefact1.png)
 
 *Source: Age Check Certification Scheme (2025)*
 
