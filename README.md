@@ -23,7 +23,7 @@ I'm studying a Bachelor of IT with a major in software development, and the laws
 
 **Link:** https://doi.org/10.1177/1037969X251394092
 
-![O'Donnell (2025) article in Alternative Law Journal](images/artefact2.png)
+![O'Donnell (2025) article in Alternative Law Journal](/artefact2.png)
 
 *Source: O'Donnell (2025)*
 
@@ -39,7 +39,7 @@ This article was chosen because it exemplifies the actual application of the law
 
 **Link:** https://www.abc.net.au/news/2025-12-10/social-media-ban-day-one-teen-access/106126706
 
-![ABC News article on age verification errors](images/artefact3.png)
+![ABC News article on age verification errors](/artefact3.png)
 
 *Source: Dervisevic (2025), ABC News*
 
@@ -55,7 +55,7 @@ I'm most curious about the use of VPNs and Tor to get around blocks and how effe
 
 **Workshop:** Week 9, Thursday, 17 September 2026, Mr Umapathy Venugopal, CQU Sydney
 
-![Selfie in the Week 9 Censorship and Government workshop](images/week9-selfie.jpg)
+![Selfie in the Week 9 Censorship and Government workshop](/week9-selfie.jpeg)
 
 *My selfie from the Week 9 workshop with my classmates, my tutor Mr Umapathy Venugopal and the workshop slides in the background.*
 
