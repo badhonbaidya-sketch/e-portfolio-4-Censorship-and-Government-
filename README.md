@@ -7,6 +7,10 @@ A collection of artefacts that demonstrate what I have learnt about Censorship a
 
 **Link:** https://www.infrastructure.gov.au/department/media/publications/age-assurance-technology-trial-final-report
 
+![Age Assurance Technology Trial final report](images/artefact1.png)
+
+*Source: Age Check Certification Scheme (2025)*
+
 ### Summary of the artefact
 The Government's Age Assurance Technology Trial is the final report which was released in September 2025 before the under-16 age ban came into effect. It evaluated over 60 age check tools from 48 vendors and discovered that age checks are not only possible but there's a "grey zone" that for facial age estimation is around 2-3 years either side of the limit. Other providers stored more personal information than required (Age Check Certification Scheme 2025).
 
@@ -18,6 +22,10 @@ I'm studying a Bachelor of IT with a major in software development, and the laws
 ## Artefact 2: Scholarly Article – O'Donnell (2025), *Alternative Law Journal*
 
 **Link:** https://doi.org/10.1177/1037969X251394092
+
+![O'Donnell (2025) article in Alternative Law Journal](images/artefact2.png)
+
+*Source: O'Donnell (2025)*
 
 ### Summary of the artefact
 O'Donnell explains how the *Online Safety Amendment (Social Media Minimum Age) Act 2024* works. Platforms must be able to reasonably prevent children under 16 from being on their service and the penalties are up to $49.5 million per violation, but "there is no penalty if youth are successful in decepting platforms to open an account" (O'Donnell 2025, p. 305–306). Platforms should also give users a choice of not using government ID, and they should remove all data upon use.
@@ -31,6 +39,10 @@ This article was chosen because it exemplifies the actual application of the law
 
 **Link:** https://www.abc.net.au/news/2025-12-10/social-media-ban-day-one-teen-access/106126706
 
+![ABC News article on age verification errors](images/artefact3.png)
+
+*Source: Dervisevic (2025), ABC News*
+
 ### Summary of the artefact
 Here's a first day of the ban ABC article which demonstrated how easy the age checks were to fool. A 14-year-old died as 23 on Snapchat, a 13-year-old died Instagram photo check as 16 and other teens did the face scan on their peers or used VPNs or even makeup. While teens who skirted the ban on day one may not avoid it "in weeks or months" (Dervisevic 2025), the Communications Minister said.
 
@@ -41,11 +53,11 @@ I'm most curious about the use of VPNs and Tor to get around blocks and how effe
 
 ## Artefact 4: Workshop Personal Reflection
 
-**Workshop:** Week 9, [Day], [Date], [Tutor], [Campus]
+**Workshop:** Week 9, Thursday, 17 September 2026, Mr Umapathy Venugopal, CQU Sydney
 
 ![Selfie in the Week 9 Censorship and Government workshop](images/week9-selfie.jpg)
 
-*My selfie from the Week 9 workshop with [the lecture slides / my tutor] in the background.*
+*My selfie from the Week 9 workshop with my classmates, my tutor Mr Umapathy Venugopal and the workshop slides in the background.*
 
 ### Summary of the artefact: My Personal Reflection
 That really made me think and analyze was the case study where ASIC blocked an IP address instead of the domain names (House of Representatives Standing Committee on Infrastructure and Communications 2015) which ended up blocking approximately 250,000 legitimate websites including Melbourne Free University. The one thing that I didn't like was the lack of transparency. No court was involved and it wasn't until June that the media was told ASIC was behind it. To me, Cloudflare removing the Daily Stormer was a big deal too. I believe it was the correct decision, but the CEO said it would be more difficult to refuse requests to take them down from government later (Prince 2017).
